@@ -1,0 +1,5 @@
+com/example/Fetch_Assignment/controller/ReceiptController.class
+com/example/Fetch_Assignment/model/Item.class
+com/example/Fetch_Assignment/service/ReceiptService.class
+com/example/Fetch_Assignment/FetchAssignmentApplication.class
+com/example/Fetch_Assignment/model/Receipt.class
